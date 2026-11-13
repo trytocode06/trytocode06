@@ -7,10 +7,10 @@
 
 I’m a software developer who enjoys building fast, reliable web apps and developer tools. I care about clean architecture, thoughtful interfaces, and shipping things people actually enjoy using.
 
-- 🔭 **Currently building:** A lightweight markdown note-taking app
-- 🌱 **Learning:** Rust & WebAssembly performance patterns
-- 🛠️ **Favorite workflow:** Neovim, Docker, and far too many terminal tabs
-- ⚡ **Off the clock:** Espresso dialing, mechanical keyboards, and trail running
+- 🔭 **Currently building:** school projects
+- 🌱 **Learning:** in Sunway University Degree Programme
+- 🛠️ **Favorite workflow:** vs code, git
+- ⚡ **Off the clock:** Hiking , Running , Golf and Occasional Biking
 
 <br clear="right" />
 
