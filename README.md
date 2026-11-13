@@ -3,11 +3,6 @@
   <img src="./banner.gif" width="600" height="260" alt="Header Banner" />
 </div>
 
-<br />
-
-<!-- INTRO + SIDE-BY-SIDE STATS CARD -->
-<img align="right" width="46%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=3b82f6&text_color=c9d1d9" alt="GitHub Stats" />
-
 ### Hey there 👋
 
 I’m a software developer who enjoys building fast, reliable web apps and developer tools. I care about clean architecture, thoughtful interfaces, and shipping things people actually enjoy using.
