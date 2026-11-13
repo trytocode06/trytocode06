@@ -1,16 +1,99 @@
-## Hi there 👋
+<!-- TOP BANNER (Dynamic SVG Image - customize text & hex colors in the URL) -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:3b82f6&height=200&section=header&text=Alex%20Rivera&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20UI%20Tinkerer%20%7C%20Open-Source%20Builder&descAlignY=58&descSize=16" width="100%" alt="Header Banner" />
+</div>
 
-<!--
-**trytocode06/trytocode06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- ANIMATED SUBTITLE -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=3B82F6&center=true&vCenter=true&width=550&lines=Building+clean%2C+human-friendly+software.;Turning+late-night+ideas+into+shipped+code.;Currently+exploring+distributed+systems+%26+AI." alt="Typing SVG" />
+  </a>
+</div>
 
-Here are some ideas to get you started:
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- INTRO + SIDE-BY-SIDE STATS CARD -->
+<img align="right" width="46%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=3b82f6&text_color=c9d1d9" alt="GitHub Stats" />
+
+### Hey there 👋
+
+I’m a software developer who enjoys building fast, reliable web apps and developer tools. I care about clean architecture, thoughtful interfaces, and shipping things people actually enjoy using.
+
+- 🔭 **Currently building:** A lightweight markdown note-taking app
+- 🌱 **Learning:** Rust & WebAssembly performance patterns
+- 🛠️ **Favorite workflow:** Neovim, Docker, and far too many terminal tabs
+- ⚡ **Off the clock:** Espresso dialing, mechanical keyboards, and trail running
+
+<br clear="right" />
+
+---
+
+### 🧰 Tech Stack
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,go,postgres,redis,docker,git,linux&perline=6" alt="Tech Stack Icons" />
+  </a>
+</div>
+
+---
+
+### 📌 Featured Projects
+
+<!-- 2-COLUMN VISUAL REPO CARDS (Automatically pulls your repo description, stars, and language) -->
+<table align="center">
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/YOUR_USERNAME/REPO_ONE">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_ONE&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=3b82f6" width="100%" alt="Project One" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/YOUR_USERNAME/REPO_TWO">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_TWO&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=3b82f6" width="100%" alt="Project Two" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/YOUR_USERNAME/REPO_THREE">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_THREE&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=3b82f6" width="100%" alt="Project Three" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/YOUR_USERNAME/REPO_FOUR">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_FOUR&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=3b82f6" width="100%" alt="Project Four" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 Activity & Connect
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&stroke=3b82f6&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6" alt="GitHub Streak" />
+</div>
+
+<br />
+
+<div align="center">
+  <a href="https://yourwebsite.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://linkedin.com/in/YOUR_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/YOUR_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter%20%2F%20X-0d1117?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="mailto:hello@yourdomain.com">
+    <img src="https://img.shields.io/badge/Email-3B82F6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
+
+<!-- FOOTER WAVE -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:1e293b&height=100&section=footer" width="100%" alt="Footer Wave" />
+</div>
