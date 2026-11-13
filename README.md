@@ -1,6 +1,6 @@
 <!-- TOP BANNER GIF -->
 <div align="center">
-  <img src="./banner.gif" width="750" height="260" alt="Header Banner" />
+  <img src="./banner.gif" width="600" height="260" alt="Header Banner" />
 </div>
 
 <br />
