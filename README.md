@@ -5,7 +5,7 @@
 
 ### Hey there 👋
 
-I’m a software developer who enjoys building fast, reliable web apps and developer tools. I care about clean architecture, thoughtful interfaces, and shipping things people actually enjoy using.
+I’m a future Data Analyst who enjoys building stuff on the web. I love making things that people can use or play.
 
 - 🔭 **Currently building:** school projects
 - 🌱 **Learning:** in Sunway University Degree Programme
