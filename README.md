@@ -1,13 +1,6 @@
-<!-- TOP BANNER (Dynamic SVG Image - customize text & hex colors in the URL) -->
+<!-- TOP BANNER GIF -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:3b82f6&height=200&section=header&text=Alex%20Rivera&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20UI%20Tinkerer%20%7C%20Open-Source%20Builder&descAlignY=58&descSize=16" width="100%" alt="Header Banner" />
-</div>
-
-<!-- ANIMATED SUBTITLE -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=3B82F6&center=true&vCenter=true&width=550&lines=Building+clean%2C+human-friendly+software.;Turning+late-night+ideas+into+shipped+code.;Currently+exploring+distributed+systems+%26+AI." alt="Typing SVG" />
-  </a>
+  <img src="./banner.gif" width="100%" alt="Header Banner" />
 </div>
 
 <br />
@@ -50,4 +43,44 @@ I’m a software developer who enjoys building fast, reliable web apps and devel
     </td>
     <td width="50%">
       <a href="https://github.com/YOUR_USERNAME/REPO_TWO">
-        <img src="
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_TWO&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=3b82f6" width="100%" alt="Project Two" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/YOUR_USERNAME/REPO_THREE">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_THREE&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=3b82f6" width="100%" alt="Project Three" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/YOUR_USERNAME/REPO_FOUR">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_FOUR&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=3b82f6" width="100%" alt="Project Four" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🌐 Connect
+
+<div align="center">
+  <a href="https://yourwebsite.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://linkedin.com/in/YOUR_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/YOUR_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter%20%2F%20X-0d1117?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="mailto:hello@yourdomain.com">
+    <img src="https://img.shields.io/badge/Email-3B82F6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
+
+<!-- FOOTER WAVE -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:1e293b&height=100&section=footer" width="100%" alt="Footer Wave" />
+</div>
